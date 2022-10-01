@@ -13,7 +13,7 @@
       "sizes": "128x128"
     }
   ],
-  "start_url": "/index.html",
+  "start_url": "/radio-mf/index.html",
   "display": "standalone",
   "theme_color": "#4c614e",
   "background_color": "#4c614e",
